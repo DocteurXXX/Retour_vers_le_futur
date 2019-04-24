@@ -1,0 +1,21 @@
+body
+{
+    background: url("../images/BTTF.jpg");
+}
+
+h1
+{
+    text-align: center;
+    font-size: 80px;
+}
+
+label, p
+{
+    font-size: 30px;
+}
+
+li
+{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
